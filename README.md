@@ -76,7 +76,7 @@ complete the initial configuration of a new lesson repository built from this te
 1. **Update this README with 
    [relevant information about your lesson](https://carpentries.github.io/lesson-development-training/collaborating-newcomers.html#readme)**
    and delete this section.
-
+2. Here is my update to clear the issue I created. This repository is a test repository to demonstrate the creation of a collaborative lesson project. 
 [cff-home]: https://citation-file-format.github.io/
 [cff-sandpaper-docs]:  https://carpentries.github.io/sandpaper-docs/editing.html#making-your-lesson-citable
 [cffinit]: https://citation-file-format.github.io/cff-initializer-javascript/
